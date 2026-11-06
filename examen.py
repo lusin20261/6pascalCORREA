@@ -1,0 +1,11 @@
+a = input("ingresa tu nombre:alanis:3")
+b = input("ingresa tu edad:11")
+c = input("ingresa tu comida favorita:el anticucho")
+d = input("ingresa tu color favorito:negro")
+e = input("ingresa tu animal favorito:panda rojo")
+print("hola",a)
+print("tienes",b,"años,que bueno")
+print("A mi me gusta",c,"es muy rico")
+print("mi color favorito es el",d)
+print("tu animal favorito es el",e)
+
